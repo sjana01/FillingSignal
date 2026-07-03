@@ -1,0 +1,26 @@
+# --- Raw data (large, and reproducible by re-running src/fetch_*.py) ---
+data/prices/
+data/filings/
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- OS junk ---
+.DS_Store
+Thumbs.db
+
+# --- Editor/IDE ---
+.vscode/
+.idea/
+
+# --- Environment/secrets ---
+.env

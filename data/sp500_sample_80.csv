@@ -1,0 +1,81 @@
+Symbol,Security,GICS Sector,CIK
+FOX,Fox Corporation (Class B),Communication Services,1754301
+GOOGL,Alphabet Inc. (Class A),Communication Services,1652044
+LYV,Live Nation Entertainment,Communication Services,1335258
+PSKY,Paramount Skydance Corporation,Communication Services,2041610
+DASH,DoorDash,Consumer Discretionary,1792789
+GPC,Genuine Parts Company,Consumer Discretionary,40987
+LEN,Lennar,Consumer Discretionary,920760
+LULU,Lululemon Athletica,Consumer Discretionary,1397187
+MAR,Marriott International,Consumer Discretionary,1048286
+ROST,Ross Stores,Consumer Discretionary,745732
+TPR,"Tapestry, Inc.",Consumer Discretionary,1116132
+ULTA,Ulta Beauty,Consumer Discretionary,1403568
+CL,Colgate-Palmolive,Consumer Staples,21665
+HSY,Hershey Company (The),Consumer Staples,47111
+KMB,Kimberly-Clark,Consumer Staples,55785
+PEP,PepsiCo,Consumer Staples,77476
+PM,Philip Morris International,Consumer Staples,1413329
+APA,APA Corporation,Energy,1841666
+PSX,Phillips 66,Energy,1534701
+TRGP,Targa Resources,Energy,1389170
+AFL,Aflac,Financials,4977
+AIZ,Assurant,Financials,1267238
+AMP,Ameriprise Financial,Financials,820027
+ERIE,Erie Indemnity,Financials,922621
+GPN,Global Payments,Financials,1123360
+KEY,KeyCorp,Financials,91576
+L,Loews Corporation,Financials,60086
+MA,Mastercard,Financials,1141391
+MS,Morgan Stanley,Financials,895421
+SPGI,S&P Global,Financials,64040
+SYF,Synchrony Financial,Financials,1601712
+TFC,Truist Financial,Financials,92230
+ABT,Abbott Laboratories,Health Care,1800
+BAX,Baxter International,Health Care,10456
+CNC,Centene Corporation,Health Care,1071739
+HCA,HCA Healthcare,Health Care,860730
+LH,Labcorp,Health Care,920148
+RVTY,Revvity,Health Care,31791
+STE,Steris,Health Care,1757898
+VRTX,Vertex Pharmaceuticals,Health Care,875320
+ZBH,Zimmer Biomet,Health Care,1136869
+ADP,Automatic Data Processing,Industrials,8670
+CARR,Carrier Global,Industrials,1783180
+CTAS,Cintas,Industrials,723254
+DAL,Delta Air Lines,Industrials,27904
+EMR,Emerson Electric,Industrials,32604
+FTV,Fortive,Industrials,1659166
+GEV,GE Vernova,Industrials,1996810
+GNRC,Generac,Industrials,1474735
+HONA,Honeywell Aerospace,Industrials,2089271
+MMM,3M,Industrials,66740
+NDSN,Nordson Corporation,Industrials,72331
+TT,Trane Technologies,Industrials,1466258
+UNP,Union Pacific Corporation,Industrials,100885
+ACN,Accenture,Information Technology,1467373
+ADSK,Autodesk,Information Technology,769397
+APH,Amphenol,Information Technology,820313
+CDNS,Cadence Design Systems,Information Technology,813672
+GEN,Gen Digital,Information Technology,849399
+GLW,Corning Inc.,Information Technology,24741
+HPQ,HP Inc.,Information Technology,47217
+INTU,Intuit,Information Technology,896878
+Q,Qnity Electronics,Information Technology,2058873
+SNPS,Synopsys,Information Technology,883241
+TDY,Teledyne Technologies,Information Technology,1094285
+ZBRA,Zebra Technologies,Information Technology,877212
+APD,Air Products,Materials,2969
+DOW,Dow Inc.,Materials,1751788
+MLM,Martin Marietta Materials,Materials,916076
+STLD,Steel Dynamics,Materials,1022671
+DLR,Digital Realty,Real Estate,1297996
+HST,Host Hotels & Resorts,Real Estate,1070750
+IRM,Iron Mountain,Real Estate,1020569
+REG,Regency Centers,Real Estate,910606
+VTR,Ventas,Real Estate,740260
+ED,Consolidated Edison,Utilities,1047862
+EVRG,Evergy,Utilities,1711269
+EXC,Exelon,Utilities,1109357
+PNW,Pinnacle West Capital,Utilities,764622
+SO,Southern Company,Utilities,92122
