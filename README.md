@@ -5,10 +5,7 @@ data and purged cross-validation.
 
 ## What this project does
 
-Tests whether changes in tone/language between a company's consecutive
-annual reports (10-Ks) predict how its stock performs afterward — using
-data handled the way a real investment process would require: no lookahead
-bias, no survivorship bias, and honest validation.
+Tests whether changes in tone and language between a company’s consecutive annual reports (10-Ks) predict subsequent stock performance, with safeguards against lookahead bias and survivorship bias, and with rigorous out-of-sample validation.
 
 ## Setup
 
@@ -20,8 +17,17 @@ pip install -r requirements.txt
 
 ```bash
 cd src
-python fetch_prices.py     # downloads stock price history for ~80 companies
-python fetch_filings.py    # downloads 10-K annual report text for the same companies
+python fetch_prices.py               # downloads stock price history for ~80 companies
+python fetch_filings.py              # downloads 10-K annual report text for the same companies
+python build_point_in_time_table.py  # matches each filing to the return that followed
+python clean_filing_text.py          # strips HTML from the raw filings
+python compute_tone_signal.py        # scores tone and computes the year-over-year shift signal
+python quick_signal_check.py         # quick gut-check: does the signal line up with returns?
+python run_validation_checks.py      # formal checks: median robustness, momentum control, out-of-sample test
+python check_sector_and_costs.py     # checks sector concentration and trading cost impact
+
+cd ../notebooks
+jupyter notebook results_and_plots.ipynb   # narrated walkthrough with all key charts
 ```
 
 ## Project structure
